@@ -11,7 +11,7 @@
 #include "rk3568.dtsi"
 
 / {
-	model = "NSY-G16 AX3000 Router";
+	model = "Supergateway S22";
 	compatible = "nsy,g16-plus", "rockchip,rk3568";
 
 	aliases {
